@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Haedong Jeon! If you want to contact me, please email me😃
+My name is Haedong Jeon! I am an iOS app developer. If you want to contact me, please email me 😃
 ### Released apps:       
 * ['추리의 계절'](https://github.com/Haedong-Jeon/SeasonOfReading)     
 * ['퍼스트 킨더'](https://github.com/Haedong-Jeon/FirstKinder)      
