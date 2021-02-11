@@ -3,8 +3,6 @@ My name is Haedong Jeon! I am an app developer. If you want to contact me, pleas
 ### Released apps       
 * 추리의 계절 ![Swift](https://img.shields.io/badge/-Swift-gray?logo=swift) ![Apple](https://img.shields.io/badge/-iPhone-black?logo=apple) ![Apple](https://img.shields.io/badge/-iPad-black?logo=apple)                           
 * 퍼스트 킨더 ![Swift](https://img.shields.io/badge/-Swift-gray?logo=swift) ![Apple](https://img.shields.io/badge/-iPhone-black?logo=apple)
-### current working on
-* flutter study
 
 ### Status
 [![Haedong-Jeon's github stats](https://github-readme-stats.vercel.app/api?username=Haedong-Jeon&show_icons=true&theme=cobalt)](https://github.com/Haedong-Jeon/github-readme-stats)     
