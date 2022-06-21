@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Haedong Jeon! I am an app developer. If you want to contact me, please email me 😃
+My name is Haedong Jeon! If you want to contact me, please email me 😃
 ### Released apps       
 * 추리의 계절 <img src = "https://img.shields.io/badge/-Swift-gray?logo=swift"/>     
 * 퍼스트 킨더 <img src = "https://img.shields.io/badge/-Swift-gray?logo=swift"/>     
